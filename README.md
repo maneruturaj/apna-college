@@ -1,1 +1,2 @@
-# apna-college
+# apna-college 
+aurthor Ruturaj
